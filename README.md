@@ -70,3 +70,6 @@ Open folder location in terminal where you want to clone the project
 
   ![Screenshot (284)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/6652ce6f-5499-4b85-9f60-6e2b427143c6)
 
+
+
+Test readme
