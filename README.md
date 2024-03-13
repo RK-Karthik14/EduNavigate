@@ -1,6 +1,6 @@
 # EduNavigate
 
-![promotion](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/f9d4ebeb-1f22-4149-a9d2-4028bb98d501)
+![promotion](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/01da6100-d099-4bdc-bfa1-0bf12b83a759)
 
 
 MERN application for students which provide guidance to choose their carrer path.
@@ -16,7 +16,7 @@ Open folder location in terminal where you want to clone the project
 ## MongoDB 
   From resources folder upload all the csv files in 'mernproject' database in following schemas using MongoDB Compass
   
-  ![image](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/9dab9bd0-ca6a-4968-8778-0860b80596cd)
+ ![Screenshot 2024-03-12 235200](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/96587ed6-f2bf-476e-a413-a3aaa80e7d2c)
 
   
 ## Installation Process
@@ -30,7 +30,8 @@ Open folder location in terminal where you want to clone the project
 ```bash
   npm start
 ```
-  ![Server](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/add985da-da50-434c-a3d4-e0fb1ba10690)
+ ![Screenshot 2024-03-12 234059](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/5c01fab3-ff1f-450b-9d74-56f96a5e70d7)
+
 
 2. Open new terminal in EduNavigate Folder
 ```bash
@@ -42,33 +43,33 @@ Open folder location in terminal where you want to clone the project
 ```bash
   npm run dev
 ```
-  ![Client](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/b090de75-fda9-4eb6-be26-6902d6e18fe9)
+ ![Screenshot 2024-03-12 234151](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/9dce0eed-2403-4cc2-82ae-7a48598c0a05)
+
   Open the link
 
 ## Output
 
-  ![Screenshot (277)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/e42a8009-3ad3-4a3a-a574-ec4552b2c702)
+ ![Screenshot (9)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/b595b0e7-376b-4ab1-bc4a-c63cb7fee8e5)
 
   ### Home Screen
 
-  ![Screenshot (278)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/7b17cb9e-9e04-4333-b80e-4ff739ad90bc)
+ ![Screenshot (10)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/f94af617-f137-4032-9c74-67a333815a12)
+
 
 
   ### Features
   
-  ![image](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/a9af4d47-e322-4c4f-82bc-e8710c5d5360)
+  ![Screenshot (11)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/d84b9f96-f800-4054-9314-c27f95899f5a)
 
-  ![Screenshot (281)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/90595088-f582-4b0f-8838-be10fab91669)
+  ![Screenshot (12)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/b895438f-47c4-4f53-ade2-f05c1f522fa6)
 
-  
   
 
   ### Admin Portal
 
-  ![Screenshot (283)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/a4e4fcf2-9c80-40c3-86a2-be912e116f1a)
+ ![Screenshot (13)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/b591c8da-51b6-43a7-9dd5-9c660fe4dfd9)
 
-
-  ![Screenshot (284)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/6652ce6f-5499-4b85-9f60-6e2b427143c6)
+![Screenshot (14)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/5c5f4492-788e-44da-a054-373fe860f3b1)
 
 
 
