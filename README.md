@@ -70,3 +70,10 @@ Open folder location in terminal where you want to clone the project
  ![Screenshot (13)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/b591c8da-51b6-43a7-9dd5-9c660fe4dfd9)
 
 ![Screenshot (14)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/5c5f4492-788e-44da-a054-373fe860f3b1)
+
+
+  ### Razorpay Payment
+  ![Screenshot (25)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/8d2c1160-2b25-4bb2-915f-f1049b96979e)
+
+![Screenshot (26)](https://github.com/RK-Karthik14/EduNavigate/assets/116002560/8f9b1ba4-cb07-40d5-a541-a16819b555d8)
+
